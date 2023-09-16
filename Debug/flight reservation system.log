@@ -1,0 +1,12 @@
+﻿  main.cpp
+E:\Uni Works\2nd semester\Object Oriented Paradigm\Flight Reservation System C++\flight reservation system\main.cpp(506,15): warning C4101: 'p': unreferenced local variable
+E:\Uni Works\2nd semester\Object Oriented Paradigm\Flight Reservation System C++\flight reservation system\main.cpp(507,12): warning C4101: 'temp': unreferenced local variable
+E:\Uni Works\2nd semester\Object Oriented Paradigm\Flight Reservation System C++\flight reservation system\main.cpp(532,15): warning C4101: 'p': unreferenced local variable
+E:\Uni Works\2nd semester\Object Oriented Paradigm\Flight Reservation System C++\flight reservation system\main.cpp(565,16): warning C4101: 'd1': unreferenced local variable
+E:\Uni Works\2nd semester\Object Oriented Paradigm\Flight Reservation System C++\flight reservation system\main.cpp(566,16): warning C4101: 'i1': unreferenced local variable
+E:\Uni Works\2nd semester\Object Oriented Paradigm\Flight Reservation System C++\flight reservation system\main.cpp(371): warning C4715: 'passenger::gender_check': not all control paths return a value
+E:\Uni Works\2nd semester\Object Oriented Paradigm\Flight Reservation System C++\flight reservation system\main.cpp(258): warning C4715: 'd_booking::select_flight': not all control paths return a value
+E:\Uni Works\2nd semester\Object Oriented Paradigm\Flight Reservation System C++\flight reservation system\main.cpp(334): warning C4715: 'i_booking::select_flight_i': not all control paths return a value
+E:\Uni Works\2nd semester\Object Oriented Paradigm\Flight Reservation System C++\flight reservation system\main.cpp(107): warning C4715: 'booking::j_detail': not all control paths return a value
+E:\Uni Works\2nd semester\Object Oriented Paradigm\Flight Reservation System C++\flight reservation system\main.cpp(182): warning C4715: 'booking::j_detail2': not all control paths return a value
+  flight reservation system.vcxproj -> E:\Uni Works\2nd semester\Object Oriented Paradigm\Flight Reservation System C++\flight reservation system\Debug\flight reservation system.exe

@@ -1,0 +1,6 @@
+PNR:1
+Flight:Qantas
+Name:Omer Afzaal
+DOJ:16
+Departure Time:08:00
+Arrival Time:11:05
